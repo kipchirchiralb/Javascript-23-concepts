@@ -1,4 +1,4 @@
-let value = 10;
-console.log(value--); //10
-console.log(value); //9
-console.log(--value); //8
+let name = "jedeal"
+console.log(name.split("e").length -1)
+
+// regular expressions
